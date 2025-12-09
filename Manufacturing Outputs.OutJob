@@ -17,13 +17,13 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=
 Description=
-TargetOutputMedium=OSHPark Files
+TargetOutputMedium=Manufacturing Files
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Adobe PDF
+TargetPrinter=HP Color LaserJet Pro MFP M477 PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputMedium1=OSHPark Files
+OutputMedium1=Manufacturing Files
 OutputMedium1_Type=GeneratedFiles
 OutputType1=Gerber
 OutputName1=Gerber Files
@@ -47,14 +47,14 @@ Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=True|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\ProgramData\Altium\Altium Designer {F2571CAD-0CB9-4D10-98AA-5A2E8B009522}\VaultEditCache\B027052B-D390-451F-9880-B6C62A89443B\Released\PCB-Rename-Me.PcbDoc
 
 [PublishSettings]
-OutputFilePath1=Project Outputs for Free Documents\
+OutputFilePath1=C:\Users\Andrew A. Katz\Documents\ESE6710\aakatz ESE 6710  Coil Interface Board\Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\
 ReleaseManaged1=1
-OutputBasePath1=Project Outputs for Free Documents
+OutputBasePath1=Project Outputs for aakatz ESE 6710  Coil Interface Board
 OutputPathMedia1=[Media Name]
 OutputPathMediaValue1=
-OutputPathOutputer1=
+OutputPathOutputer1=[Output Custom]
 OutputPathOutputerPrefix1=
-OutputPathOutputerValue1=
+OutputPathOutputerValue1==ProjectName
 OutputFileName1=
 OutputFileNameMulti1=
 UseOutputNameForMulti1=1
@@ -62,7 +62,7 @@ OutputFileNameSpecial1=
 OpenOutput1=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath1=Project Outputs for Free Documents\
+RelativeOutputPath1=C:\Users\Andrew A. Katz\Documents\ESE6710\aakatz ESE 6710  Coil Interface Board\Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\
 OpenOutputs1=0
 AddToProject1=1
 TimestampFolder1=0
