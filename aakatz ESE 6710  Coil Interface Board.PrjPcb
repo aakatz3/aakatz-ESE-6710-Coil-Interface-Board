@@ -120,63 +120,84 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document5]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.DRR
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Design Rule Check - ESE6710 Coil Interface Board.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.EXTREP
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GBL
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GBO
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GBP
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GBS
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GM1
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GTL
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GTO
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GTP
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GTS
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.LDP
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.REP
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.RUL
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.REP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
+DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.TXT
 DItemRevisionGUID=
 
