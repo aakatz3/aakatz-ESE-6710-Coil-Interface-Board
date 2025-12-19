@@ -47,6 +47,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=0
+CurrentVariant=As Built
 
 [Preferences]
 PrefsVaultGUID=
@@ -136,6 +137,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueId=09d5cde7-bf06-4272-a00b-3c48f63e3d3d
+Description=As Built
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Design Rule Check - ESE6710 Coil Interface Board.html
