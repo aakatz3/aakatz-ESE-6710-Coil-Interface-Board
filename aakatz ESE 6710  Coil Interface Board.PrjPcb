@@ -138,6 +138,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=Documentation.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=65b5704e-5a1f-4677-91eb-ac613f144485
 Description=TX
@@ -156,11 +173,11 @@ ParameterCount=0
 VariationCount=10
 Variation1=Designator=C5|UniqueId=\LSYACPVC|Kind=1|AlternatePart=
 Variation2=Designator=C4|UniqueId=\UOSNFFHX|Kind=2|AlternatePart=QCCT102Q0R3A1GV001E|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-0001-00021-2|AltLibLink_DesignItemID=CMP-0001-00021-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=dc3a6604-d739-4234-ac69-03f7ea1ca0ce|AltLibLink_RevisionGUID=5d772021-8afc-4232-b37d-a1eb02b3c35c|AltLibLink_Footprint=0805_CAP|AltLibLink_IsSameFootprint=False
-ParamVariation1=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamVariation1=ParameterName=Comment|VariantValue=QCCT102Q0R3A1GV001E
 ParamDesignator1=C4
-ParamVariation2=ParameterName=Case/Package|VariantValue=0805
+ParamVariation2=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator2=C4
-ParamVariation3=ParameterName=Comment|VariantValue=QCCT102Q0R3A1GV001E
+ParamVariation3=ParameterName=Case/Package|VariantValue=0805
 ParamDesignator3=C4
 ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator4=C4
@@ -217,17 +234,17 @@ ParamDesignator29=C4
 ParamVariation30=ParameterName=Width|VariantValue=1.27mm
 ParamDesignator30=C4
 Variation3=Designator=C9|UniqueId=\ETEJFINS|Kind=2|AlternatePart=800B1R2BT500XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00044-1|AltLibLink_DesignItemID=CMP-001-00044-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=4021a4ce-de84-482d-9c10-5824a2d4e077|AltLibLink_RevisionGUID=a18612f4-7cce-4eb7-93ea-850daeb5d086|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation31=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamVariation31=ParameterName=Comment|VariantValue=800B1R2BT500XT
 ParamDesignator31=C9
-ParamVariation32=ParameterName=Case/Package|VariantValue=1111
+ParamVariation32=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator32=C9
-ParamVariation33=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamVariation33=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator33=C9
-ParamVariation34=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamVariation34=ParameterName=Case Code (Imperial)|VariantValue=1111
 ParamDesignator34=C9
-ParamVariation35=ParameterName=China RoHS|VariantValue=Compliant
+ParamVariation35=ParameterName=Case Code (Metric)|VariantValue=2828
 ParamDesignator35=C9
-ParamVariation36=ParameterName=Comment|VariantValue=800B1R2BT500XT
+ParamVariation36=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator36=C9
 ParamVariation37=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator37=C9
@@ -292,17 +309,17 @@ ParamDesignator66=C9
 ParamVariation67=ParameterName=Width|VariantValue=2.79mm
 ParamDesignator67=C9
 Variation4=Designator=C8|UniqueId=\QUSBDZTW|Kind=2|AlternatePart=800B3R3BT500XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00045-1|AltLibLink_DesignItemID=CMP-001-00045-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=d8ddc2da-c0d0-4a5b-b5c8-828c8eee0471|AltLibLink_RevisionGUID=4a986630-324d-409d-9790-038159896694|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation68=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamVariation68=ParameterName=Comment|VariantValue=800B3R3BT500XT
 ParamDesignator68=C8
-ParamVariation69=ParameterName=Case/Package|VariantValue=1111
+ParamVariation69=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator69=C8
-ParamVariation70=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamVariation70=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator70=C8
-ParamVariation71=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamVariation71=ParameterName=Case Code (Imperial)|VariantValue=1111
 ParamDesignator71=C8
-ParamVariation72=ParameterName=China RoHS|VariantValue=Compliant
+ParamVariation72=ParameterName=Case Code (Metric)|VariantValue=2828
 ParamDesignator72=C8
-ParamVariation73=ParameterName=Comment|VariantValue=800B3R3BT500XT
+ParamVariation73=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator73=C8
 ParamVariation74=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator74=C8
@@ -367,13 +384,13 @@ ParamDesignator103=C8
 ParamVariation104=ParameterName=Width|VariantValue=2.79mm
 ParamDesignator104=C8
 Variation5=Designator=C7|UniqueId=\ZHVFBXYV|Kind=2|AlternatePart=800B270JT500XT1K|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00030-1|AltLibLink_DesignItemID=CMP-001-00030-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=cbe78544-7c4c-4afc-acd3-f91a6c6f0b9f|AltLibLink_RevisionGUID=971ead57-213e-44fa-96ba-90f5c334847e|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation105=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamVariation105=ParameterName=Comment|VariantValue=800B270JT500XT1K
 ParamDesignator105=C7
-ParamVariation106=ParameterName=Case/Package|VariantValue=1111
+ParamVariation106=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator106=C7
-ParamVariation107=ParameterName=China RoHS|VariantValue=Compliant
+ParamVariation107=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator107=C7
-ParamVariation108=ParameterName=Comment|VariantValue=800B270JT500XT1K
+ParamVariation108=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator108=C7
 ParamVariation109=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator109=C7
@@ -432,17 +449,17 @@ ParamDesignator135=C7
 ParamVariation136=ParameterName=Width|VariantValue=2.79mm
 ParamDesignator136=C7
 Variation6=Designator=C1|UniqueId=\SWFGFOMS|Kind=2|AlternatePart=800B241JT200XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00046-1|AltLibLink_DesignItemID=CMP-001-00046-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=14862452-7d2f-41f1-b0c9-e2755b870343|AltLibLink_RevisionGUID=c4a37a8c-1560-47ad-9fd3-9488ed9238ee|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation137=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamVariation137=ParameterName=Comment|VariantValue=800B241JT200XT
 ParamDesignator137=C1
-ParamVariation138=ParameterName=Case/Package|VariantValue=1111
+ParamVariation138=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator138=C1
-ParamVariation139=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamVariation139=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator139=C1
-ParamVariation140=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamVariation140=ParameterName=Case Code (Imperial)|VariantValue=1111
 ParamDesignator140=C1
-ParamVariation141=ParameterName=China RoHS|VariantValue=Compliant
+ParamVariation141=ParameterName=Case Code (Metric)|VariantValue=2828
 ParamDesignator141=C1
-ParamVariation142=ParameterName=Comment|VariantValue=800B241JT200XT
+ParamVariation142=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator142=C1
 ParamVariation143=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator143=C1
@@ -507,17 +524,17 @@ ParamDesignator172=C1
 ParamVariation173=ParameterName=Width|VariantValue=2.79mm
 ParamDesignator173=C1
 Variation7=Designator=C6|UniqueId=\ZSYSIIAU|Kind=2|AlternatePart=800B241JT200XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00046-1|AltLibLink_DesignItemID=CMP-001-00046-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=14862452-7d2f-41f1-b0c9-e2755b870343|AltLibLink_RevisionGUID=c4a37a8c-1560-47ad-9fd3-9488ed9238ee|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation174=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamVariation174=ParameterName=Comment|VariantValue=800B241JT200XT
 ParamDesignator174=C6
-ParamVariation175=ParameterName=Case/Package|VariantValue=1111
+ParamVariation175=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator175=C6
-ParamVariation176=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamVariation176=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator176=C6
-ParamVariation177=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamVariation177=ParameterName=Case Code (Imperial)|VariantValue=1111
 ParamDesignator177=C6
-ParamVariation178=ParameterName=China RoHS|VariantValue=Compliant
+ParamVariation178=ParameterName=Case Code (Metric)|VariantValue=2828
 ParamDesignator178=C6
-ParamVariation179=ParameterName=Comment|VariantValue=800B241JT200XT
+ParamVariation179=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator179=C6
 ParamVariation180=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator180=C6
@@ -582,17 +599,17 @@ ParamDesignator209=C6
 ParamVariation210=ParameterName=Width|VariantValue=2.79mm
 ParamDesignator210=C6
 Variation8=Designator=C2|UniqueId=\SGRBNLKJ|Kind=2|AlternatePart=800B240JT500XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00047-1|AltLibLink_DesignItemID=CMP-001-00047-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=bbc3385d-c1c9-466f-887c-f533c1cf3ad9|AltLibLink_RevisionGUID=72605098-bde0-44a7-aeea-487b9c40434d|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation211=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamVariation211=ParameterName=Comment|VariantValue=800B240JT500XT
 ParamDesignator211=C2
-ParamVariation212=ParameterName=Case/Package|VariantValue=1111
+ParamVariation212=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator212=C2
-ParamVariation213=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamVariation213=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator213=C2
-ParamVariation214=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamVariation214=ParameterName=Case Code (Imperial)|VariantValue=1111
 ParamDesignator214=C2
-ParamVariation215=ParameterName=China RoHS|VariantValue=Compliant
+ParamVariation215=ParameterName=Case Code (Metric)|VariantValue=2828
 ParamDesignator215=C2
-ParamVariation216=ParameterName=Comment|VariantValue=800B240JT500XT
+ParamVariation216=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator216=C2
 ParamVariation217=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator217=C2
@@ -660,17 +677,17 @@ ParamVariation248=ParameterName=Width|VariantValue=2.79mm
 ParamDesignator248=C2
 Variation9=Designator=C10|UniqueId=\JJHKMAGE|Kind=1|AlternatePart=
 Variation10=Designator=C3|UniqueId=\CXKSBGFH|Kind=2|AlternatePart=800B1R2BT500XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00044-1|AltLibLink_DesignItemID=CMP-001-00044-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=4021a4ce-de84-482d-9c10-5824a2d4e077|AltLibLink_RevisionGUID=a18612f4-7cce-4eb7-93ea-850daeb5d086|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation249=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamVariation249=ParameterName=Comment|VariantValue=800B1R2BT500XT
 ParamDesignator249=C3
-ParamVariation250=ParameterName=Case/Package|VariantValue=1111
+ParamVariation250=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator250=C3
-ParamVariation251=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamVariation251=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator251=C3
-ParamVariation252=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamVariation252=ParameterName=Case Code (Imperial)|VariantValue=1111
 ParamDesignator252=C3
-ParamVariation253=ParameterName=China RoHS|VariantValue=Compliant
+ParamVariation253=ParameterName=Case Code (Metric)|VariantValue=2828
 ParamDesignator253=C3
-ParamVariation254=ParameterName=Comment|VariantValue=800B1R2BT500XT
+ParamVariation254=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator254=C3
 ParamVariation255=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator255=C3
