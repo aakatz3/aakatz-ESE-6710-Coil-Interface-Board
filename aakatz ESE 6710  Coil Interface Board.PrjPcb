@@ -161,8 +161,586 @@ Description=TX
 OverwritePCBFootprint=0
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
-ParamVariationCount=0
+VariationCount=10
+Variation1=Designator=C9|UniqueId=\ETEJFINS|Kind=2|AlternatePart=QCCT102Q0R8B1GV001E|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00048-1|AltLibLink_DesignItemID=CMP-001-00048-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=0d9a337b-a400-4b4c-b3e9-e88123d1e846|AltLibLink_RevisionGUID=b968b0d9-23e9-4081-a1a8-9b30a75258e4|AltLibLink_Footprint=0805_CAP|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamDesignator1=C9
+ParamVariation2=ParameterName=Case/Package|VariantValue=0805
+ParamDesignator2=C9
+ParamVariation3=ParameterName=Comment|VariantValue=QCCT102Q0R8B1GV001E
+ParamDesignator3=C9
+ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator4=C9
+ParamVariation5=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 1000V, 12.5% +Tol, 12.5% -Tol, C0G, 30ppm/Cel TC, 0.0000008uF, Surface Mount,...
+ParamDesignator5=C9
+ParamVariation6=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator6=C9
+ParamVariation7=ParameterName=Footprint|VariantValue=0805_CAP
+ParamDesignator7=C9
+ParamVariation8=ParameterName=Height|VariantValue=1.02mm
+ParamDesignator8=C9
+ParamVariation9=ParameterName=Ibis Model|VariantValue=
+ParamDesignator9=C9
+ParamVariation10=ParameterName=Length|VariantValue=2.03mm
+ParamDesignator10=C9
+ParamVariation11=ParameterName=Library Reference|VariantValue=CMP-001-00048-1
+ParamDesignator11=C9
+ParamVariation12=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator12=C9
+ParamVariation13=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator13=C9
+ParamVariation14=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator14=C9
+ParamVariation15=ParameterName=Mount|VariantValue=SMD
+ParamDesignator15=C9
+ParamVariation16=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator16=C9
+ParamVariation17=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator17=C9
+ParamVariation18=ParameterName=PCB3D|VariantValue=
+ParamDesignator18=C9
+ParamVariation19=ParameterName=Pin Info|VariantValue=
+ParamDesignator19=C9
+ParamVariation20=ParameterName=Pins|VariantValue=
+ParamDesignator20=C9
+ParamVariation21=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator21=C9
+ParamVariation22=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator22=C9
+ParamVariation23=ParameterName=Simulation|VariantValue=
+ParamDesignator23=C9
+ParamVariation24=ParameterName=Tolerance|VariantValue=16.6667%
+ParamDesignator24=C9
+ParamVariation25=ParameterName=Val|VariantValue=
+ParamDesignator25=C9
+ParamVariation26=ParameterName=Value|VariantValue=0.8pF
+ParamDesignator26=C9
+ParamVariation27=ParameterName=Vol|VariantValue=
+ParamDesignator27=C9
+ParamVariation28=ParameterName=Voltage|VariantValue=1kV
+ParamDesignator28=C9
+ParamVariation29=ParameterName=Voltage Rating (DC)|VariantValue=1kV
+ParamDesignator29=C9
+ParamVariation30=ParameterName=Width|VariantValue=1.27mm
+ParamDesignator30=C9
+Variation2=Designator=C10|UniqueId=\JJHKMAGE|Kind=1|AlternatePart=
+Variation3=Designator=C5|UniqueId=\LSYACPVC|Kind=1|AlternatePart=
+Variation4=Designator=C1|UniqueId=\SWFGFOMS|Kind=2|AlternatePart=800B241JT200XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00046-1|AltLibLink_DesignItemID=CMP-001-00046-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=14862452-7d2f-41f1-b0c9-e2755b870343|AltLibLink_RevisionGUID=c4a37a8c-1560-47ad-9fd3-9488ed9238ee|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation31=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamDesignator31=C1
+ParamVariation32=ParameterName=Case/Package|VariantValue=1111
+ParamDesignator32=C1
+ParamVariation33=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamDesignator33=C1
+ParamVariation34=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamDesignator34=C1
+ParamVariation35=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator35=C1
+ParamVariation36=ParameterName=Comment|VariantValue=800B241JT200XT
+ParamDesignator36=C1
+ParamVariation37=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator37=C1
+ParamVariation38=ParameterName=Composition|VariantValue=Ceramic
+ParamDesignator38=C1
+ParamVariation39=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 200V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.00024uF, Surface Mount, 1111
+ParamDesignator39=C1
+ParamVariation40=ParameterName=Dielectric|VariantValue=C0G
+ParamDesignator40=C1
+ParamVariation41=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator41=C1
+ParamVariation42=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
+ParamDesignator42=C1
+ParamVariation43=ParameterName=Height|VariantValue=1.78mm
+ParamDesignator43=C1
+ParamVariation44=ParameterName=Ibis Model|VariantValue=
+ParamDesignator44=C1
+ParamVariation45=ParameterName=Length|VariantValue=2.79mm
+ParamDesignator45=C1
+ParamVariation46=ParameterName=Library Reference|VariantValue=CMP-001-00046-1
+ParamDesignator46=C1
+ParamVariation47=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator47=C1
+ParamVariation48=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator48=C1
+ParamVariation49=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator49=C1
+ParamVariation50=ParameterName=Mount|VariantValue=SMD
+ParamDesignator50=C1
+ParamVariation51=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator51=C1
+ParamVariation52=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator52=C1
+ParamVariation53=ParameterName=PCB3D|VariantValue=
+ParamDesignator53=C1
+ParamVariation54=ParameterName=Pin Info|VariantValue=
+ParamDesignator54=C1
+ParamVariation55=ParameterName=Pins|VariantValue=
+ParamDesignator55=C1
+ParamVariation56=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator56=C1
+ParamVariation57=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator57=C1
+ParamVariation58=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator58=C1
+ParamVariation59=ParameterName=Simulation|VariantValue=
+ParamDesignator59=C1
+ParamVariation60=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator60=C1
+ParamVariation61=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator61=C1
+ParamVariation62=ParameterName=Val|VariantValue=
+ParamDesignator62=C1
+ParamVariation63=ParameterName=Value|VariantValue=240pF
+ParamDesignator63=C1
+ParamVariation64=ParameterName=Vol|VariantValue=
+ParamDesignator64=C1
+ParamVariation65=ParameterName=Voltage|VariantValue=500V
+ParamDesignator65=C1
+ParamVariation66=ParameterName=Voltage Rating (DC)|VariantValue=200V
+ParamDesignator66=C1
+ParamVariation67=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator67=C1
+Variation5=Designator=C2|UniqueId=\SGRBNLKJ|Kind=2|AlternatePart=800B200JT500XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00049-1|AltLibLink_DesignItemID=CMP-001-00049-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=dcab8cbd-8ad6-4313-912e-808f35157850|AltLibLink_RevisionGUID=feb4f381-8d46-47cb-a644-45a7979d76d3|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation68=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamDesignator68=C2
+ParamVariation69=ParameterName=Case/Package|VariantValue=1111
+ParamDesignator69=C2
+ParamVariation70=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamDesignator70=C2
+ParamVariation71=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamDesignator71=C2
+ParamVariation72=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator72=C2
+ParamVariation73=ParameterName=Comment|VariantValue=800B200JT500XT
+ParamDesignator73=C2
+ParamVariation74=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator74=C2
+ParamVariation75=ParameterName=Composition|VariantValue=Ceramic
+ParamDesignator75=C2
+ParamVariation76=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 500V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.00002uF, Surface Mount, 1111
+ParamDesignator76=C2
+ParamVariation77=ParameterName=Dielectric|VariantValue=C0G
+ParamDesignator77=C2
+ParamVariation78=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator78=C2
+ParamVariation79=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
+ParamDesignator79=C2
+ParamVariation80=ParameterName=Height|VariantValue=1.78mm
+ParamDesignator80=C2
+ParamVariation81=ParameterName=Ibis Model|VariantValue=
+ParamDesignator81=C2
+ParamVariation82=ParameterName=Length|VariantValue=2.79mm
+ParamDesignator82=C2
+ParamVariation83=ParameterName=Library Reference|VariantValue=CMP-001-00049-1
+ParamDesignator83=C2
+ParamVariation84=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator84=C2
+ParamVariation85=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator85=C2
+ParamVariation86=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator86=C2
+ParamVariation87=ParameterName=Mount|VariantValue=SMD
+ParamDesignator87=C2
+ParamVariation88=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator88=C2
+ParamVariation89=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator89=C2
+ParamVariation90=ParameterName=PCB3D|VariantValue=
+ParamDesignator90=C2
+ParamVariation91=ParameterName=Pin Info|VariantValue=
+ParamDesignator91=C2
+ParamVariation92=ParameterName=Pins|VariantValue=
+ParamDesignator92=C2
+ParamVariation93=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator93=C2
+ParamVariation94=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator94=C2
+ParamVariation95=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator95=C2
+ParamVariation96=ParameterName=Simulation|VariantValue=
+ParamDesignator96=C2
+ParamVariation97=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator97=C2
+ParamVariation98=ParameterName=Thickness|VariantValue=1.778mm
+ParamDesignator98=C2
+ParamVariation99=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator99=C2
+ParamVariation100=ParameterName=Val|VariantValue=
+ParamDesignator100=C2
+ParamVariation101=ParameterName=Value|VariantValue=20pF
+ParamDesignator101=C2
+ParamVariation102=ParameterName=Vol|VariantValue=
+ParamDesignator102=C2
+ParamVariation103=ParameterName=Voltage|VariantValue=500V
+ParamDesignator103=C2
+ParamVariation104=ParameterName=Voltage Rating|VariantValue=500V
+ParamDesignator104=C2
+ParamVariation105=ParameterName=Voltage Rating (DC)|VariantValue=500V
+ParamDesignator105=C2
+ParamVariation106=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator106=C2
+Variation6=Designator=C3|UniqueId=\CXKSBGFH|Kind=2|AlternatePart=800B8R2BT500XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00050-1|AltLibLink_DesignItemID=CMP-001-00050-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=c458848f-30b3-4171-b6fc-d73859768c68|AltLibLink_RevisionGUID=b62f1d4b-09cf-4e04-9261-4777159d4d62|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation107=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamDesignator107=C3
+ParamVariation108=ParameterName=Case/Package|VariantValue=1111
+ParamDesignator108=C3
+ParamVariation109=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamDesignator109=C3
+ParamVariation110=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamDesignator110=C3
+ParamVariation111=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator111=C3
+ParamVariation112=ParameterName=Comment|VariantValue=800B8R2BT500XT
+ParamDesignator112=C3
+ParamVariation113=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator113=C3
+ParamVariation114=ParameterName=Composition|VariantValue=Ceramic
+ParamDesignator114=C3
+ParamVariation115=ParameterName=Description|VariantValue=Multilayer Ceramic Capacitors MLCC - SMD/SMT 500volts 8.2pF NP0
+ParamDesignator115=C3
+ParamVariation116=ParameterName=Dielectric|VariantValue=C0G
+ParamDesignator116=C3
+ParamVariation117=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator117=C3
+ParamVariation118=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
+ParamDesignator118=C3
+ParamVariation119=ParameterName=Height|VariantValue=1.78mm
+ParamDesignator119=C3
+ParamVariation120=ParameterName=Ibis Model|VariantValue=
+ParamDesignator120=C3
+ParamVariation121=ParameterName=Length|VariantValue=2.79mm
+ParamDesignator121=C3
+ParamVariation122=ParameterName=Library Reference|VariantValue=CMP-001-00050-1
+ParamDesignator122=C3
+ParamVariation123=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator123=C3
+ParamVariation124=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator124=C3
+ParamVariation125=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator125=C3
+ParamVariation126=ParameterName=Mount|VariantValue=SMD
+ParamDesignator126=C3
+ParamVariation127=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator127=C3
+ParamVariation128=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator128=C3
+ParamVariation129=ParameterName=PCB3D|VariantValue=
+ParamDesignator129=C3
+ParamVariation130=ParameterName=Pin Info|VariantValue=
+ParamDesignator130=C3
+ParamVariation131=ParameterName=Pins|VariantValue=
+ParamDesignator131=C3
+ParamVariation132=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator132=C3
+ParamVariation133=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator133=C3
+ParamVariation134=ParameterName=Schedule B|VariantValue=8532240020
+ParamDesignator134=C3
+ParamVariation135=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator135=C3
+ParamVariation136=ParameterName=Simulation|VariantValue=
+ParamDesignator136=C3
+ParamVariation137=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator137=C3
+ParamVariation138=ParameterName=Thickness|VariantValue=1.778mm
+ParamDesignator138=C3
+ParamVariation139=ParameterName=Tolerance|VariantValue=41.6667%
+ParamDesignator139=C3
+ParamVariation140=ParameterName=Val|VariantValue=
+ParamDesignator140=C3
+ParamVariation141=ParameterName=Value|VariantValue=8.2pF
+ParamDesignator141=C3
+ParamVariation142=ParameterName=Vol|VariantValue=
+ParamDesignator142=C3
+ParamVariation143=ParameterName=Voltage|VariantValue=500V
+ParamDesignator143=C3
+ParamVariation144=ParameterName=Voltage Rating|VariantValue=500V
+ParamDesignator144=C3
+ParamVariation145=ParameterName=Voltage Rating (DC)|VariantValue=500V
+ParamDesignator145=C3
+ParamVariation146=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator146=C3
+Variation7=Designator=C4|UniqueId=\UOSNFFHX|Kind=2|AlternatePart=800B1R2BT500XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00044-1|AltLibLink_DesignItemID=CMP-001-00044-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=4021a4ce-de84-482d-9c10-5824a2d4e077|AltLibLink_RevisionGUID=a18612f4-7cce-4eb7-93ea-850daeb5d086|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation147=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamDesignator147=C4
+ParamVariation148=ParameterName=Case/Package|VariantValue=1111
+ParamDesignator148=C4
+ParamVariation149=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamDesignator149=C4
+ParamVariation150=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamDesignator150=C4
+ParamVariation151=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator151=C4
+ParamVariation152=ParameterName=Comment|VariantValue=800B1R2BT500XT
+ParamDesignator152=C4
+ParamVariation153=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator153=C4
+ParamVariation154=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 500V, 41.6667% +Tol, 41.6667% -Tol, C0G, 30ppm/Cel TC, 0.0000012uF, Surface...
+ParamDesignator154=C4
+ParamVariation155=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator155=C4
+ParamVariation156=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
+ParamDesignator156=C4
+ParamVariation157=ParameterName=Height|VariantValue=1.78mm
+ParamDesignator157=C4
+ParamVariation158=ParameterName=Ibis Model|VariantValue=
+ParamDesignator158=C4
+ParamVariation159=ParameterName=Length|VariantValue=2.79mm
+ParamDesignator159=C4
+ParamVariation160=ParameterName=Library Reference|VariantValue=CMP-001-00044-1
+ParamDesignator160=C4
+ParamVariation161=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator161=C4
+ParamVariation162=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator162=C4
+ParamVariation163=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator163=C4
+ParamVariation164=ParameterName=Mount|VariantValue=SMD
+ParamDesignator164=C4
+ParamVariation165=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator165=C4
+ParamVariation166=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator166=C4
+ParamVariation167=ParameterName=PCB3D|VariantValue=
+ParamDesignator167=C4
+ParamVariation168=ParameterName=Pin Info|VariantValue=
+ParamDesignator168=C4
+ParamVariation169=ParameterName=Pins|VariantValue=
+ParamDesignator169=C4
+ParamVariation170=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator170=C4
+ParamVariation171=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator171=C4
+ParamVariation172=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator172=C4
+ParamVariation173=ParameterName=Simulation|VariantValue=
+ParamDesignator173=C4
+ParamVariation174=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator174=C4
+ParamVariation175=ParameterName=Thickness|VariantValue=1.778mm
+ParamDesignator175=C4
+ParamVariation176=ParameterName=Tolerance|VariantValue=41.6667%
+ParamDesignator176=C4
+ParamVariation177=ParameterName=Val|VariantValue=
+ParamDesignator177=C4
+ParamVariation178=ParameterName=Value|VariantValue=1.2pF
+ParamDesignator178=C4
+ParamVariation179=ParameterName=Vol|VariantValue=
+ParamDesignator179=C4
+ParamVariation180=ParameterName=Voltage|VariantValue=500V
+ParamDesignator180=C4
+ParamVariation181=ParameterName=Voltage Rating|VariantValue=500V
+ParamDesignator181=C4
+ParamVariation182=ParameterName=Voltage Rating (DC)|VariantValue=500V
+ParamDesignator182=C4
+ParamVariation183=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator183=C4
+Variation8=Designator=C6|UniqueId=\ZSYSIIAU|Kind=2|AlternatePart=800B241JT200XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00046-1|AltLibLink_DesignItemID=CMP-001-00046-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=14862452-7d2f-41f1-b0c9-e2755b870343|AltLibLink_RevisionGUID=c4a37a8c-1560-47ad-9fd3-9488ed9238ee|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation184=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamDesignator184=C6
+ParamVariation185=ParameterName=Case/Package|VariantValue=1111
+ParamDesignator185=C6
+ParamVariation186=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamDesignator186=C6
+ParamVariation187=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamDesignator187=C6
+ParamVariation188=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator188=C6
+ParamVariation189=ParameterName=Comment|VariantValue=800B241JT200XT
+ParamDesignator189=C6
+ParamVariation190=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator190=C6
+ParamVariation191=ParameterName=Composition|VariantValue=Ceramic
+ParamDesignator191=C6
+ParamVariation192=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 200V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.00024uF, Surface Mount, 1111
+ParamDesignator192=C6
+ParamVariation193=ParameterName=Dielectric|VariantValue=C0G
+ParamDesignator193=C6
+ParamVariation194=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator194=C6
+ParamVariation195=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
+ParamDesignator195=C6
+ParamVariation196=ParameterName=Height|VariantValue=1.78mm
+ParamDesignator196=C6
+ParamVariation197=ParameterName=Ibis Model|VariantValue=
+ParamDesignator197=C6
+ParamVariation198=ParameterName=Length|VariantValue=2.79mm
+ParamDesignator198=C6
+ParamVariation199=ParameterName=Library Reference|VariantValue=CMP-001-00046-1
+ParamDesignator199=C6
+ParamVariation200=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator200=C6
+ParamVariation201=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator201=C6
+ParamVariation202=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator202=C6
+ParamVariation203=ParameterName=Mount|VariantValue=SMD
+ParamDesignator203=C6
+ParamVariation204=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator204=C6
+ParamVariation205=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator205=C6
+ParamVariation206=ParameterName=PCB3D|VariantValue=
+ParamDesignator206=C6
+ParamVariation207=ParameterName=Pin Info|VariantValue=
+ParamDesignator207=C6
+ParamVariation208=ParameterName=Pins|VariantValue=
+ParamDesignator208=C6
+ParamVariation209=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator209=C6
+ParamVariation210=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator210=C6
+ParamVariation211=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator211=C6
+ParamVariation212=ParameterName=Simulation|VariantValue=
+ParamDesignator212=C6
+ParamVariation213=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator213=C6
+ParamVariation214=ParameterName=Tolerance|VariantValue=5%
+ParamDesignator214=C6
+ParamVariation215=ParameterName=Val|VariantValue=
+ParamDesignator215=C6
+ParamVariation216=ParameterName=Value|VariantValue=240pF
+ParamDesignator216=C6
+ParamVariation217=ParameterName=Vol|VariantValue=
+ParamDesignator217=C6
+ParamVariation218=ParameterName=Voltage|VariantValue=500V
+ParamDesignator218=C6
+ParamVariation219=ParameterName=Voltage Rating (DC)|VariantValue=200V
+ParamDesignator219=C6
+ParamVariation220=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator220=C6
+Variation9=Designator=C7|UniqueId=\ZHVFBXYV|Kind=2|AlternatePart=800B270JT500XT1K|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00030-1|AltLibLink_DesignItemID=CMP-001-00030-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=cbe78544-7c4c-4afc-acd3-f91a6c6f0b9f|AltLibLink_RevisionGUID=971ead57-213e-44fa-96ba-90f5c334847e|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation221=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamDesignator221=C7
+ParamVariation222=ParameterName=Case/Package|VariantValue=1111
+ParamDesignator222=C7
+ParamVariation223=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator223=C7
+ParamVariation224=ParameterName=Comment|VariantValue=800B270JT500XT1K
+ParamDesignator224=C7
+ParamVariation225=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator225=C7
+ParamVariation226=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 500V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.000027uF, Surface Mount, 1111
+ParamDesignator226=C7
+ParamVariation227=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator227=C7
+ParamVariation228=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
+ParamDesignator228=C7
+ParamVariation229=ParameterName=Height|VariantValue=1.78mm
+ParamDesignator229=C7
+ParamVariation230=ParameterName=Ibis Model|VariantValue=
+ParamDesignator230=C7
+ParamVariation231=ParameterName=Length|VariantValue=2.79mm
+ParamDesignator231=C7
+ParamVariation232=ParameterName=Library Reference|VariantValue=CMP-001-00030-1
+ParamDesignator232=C7
+ParamVariation233=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator233=C7
+ParamVariation234=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator234=C7
+ParamVariation235=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator235=C7
+ParamVariation236=ParameterName=Mount|VariantValue=SMD
+ParamDesignator236=C7
+ParamVariation237=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator237=C7
+ParamVariation238=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator238=C7
+ParamVariation239=ParameterName=PCB3D|VariantValue=
+ParamDesignator239=C7
+ParamVariation240=ParameterName=Pin Info|VariantValue=
+ParamDesignator240=C7
+ParamVariation241=ParameterName=Pins|VariantValue=
+ParamDesignator241=C7
+ParamVariation242=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator242=C7
+ParamVariation243=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator243=C7
+ParamVariation244=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator244=C7
+ParamVariation245=ParameterName=Simulation|VariantValue=
+ParamDesignator245=C7
+ParamVariation246=ParameterName=Tolerance|VariantValue=
+ParamDesignator246=C7
+ParamVariation247=ParameterName=Val|VariantValue=
+ParamDesignator247=C7
+ParamVariation248=ParameterName=Value|VariantValue=27pF
+ParamDesignator248=C7
+ParamVariation249=ParameterName=Vol|VariantValue=
+ParamDesignator249=C7
+ParamVariation250=ParameterName=Voltage|VariantValue=500V
+ParamDesignator250=C7
+ParamVariation251=ParameterName=Voltage Rating (DC)|VariantValue=500V
+ParamDesignator251=C7
+ParamVariation252=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator252=C7
+Variation10=Designator=C8|UniqueId=\QUSBDZTW|Kind=2|AlternatePart=800B1R0BT500XT1K|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00029-1|AltLibLink_DesignItemID=CMP-001-00029-1|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=446e1da9-752b-4716-9c0d-9dfe19f3ed2c|AltLibLink_RevisionGUID=d35bca32-a4e3-48b9-ba14-956f047f4eae|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
+ParamVariation253=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamDesignator253=C8
+ParamVariation254=ParameterName=Case/Package|VariantValue=1111
+ParamDesignator254=C8
+ParamVariation255=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator255=C8
+ParamVariation256=ParameterName=Comment|VariantValue=800B1R0BT500XT1K
+ParamDesignator256=C8
+ParamVariation257=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator257=C8
+ParamVariation258=ParameterName=Description|VariantValue=Ceramic Capacitor, Multilayer, Ceramic, 500V, 50% +Tol, 50% -Tol, C0G, 30ppm/Cel TC, 0.000001uF, Surface Mount, 1111
+ParamDesignator258=C8
+ParamVariation259=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator259=C8
+ParamVariation260=ParameterName=Footprint|VariantValue=CAP_1111_ATC 800B
+ParamDesignator260=C8
+ParamVariation261=ParameterName=Height|VariantValue=1.78mm
+ParamDesignator261=C8
+ParamVariation262=ParameterName=Ibis Model|VariantValue=
+ParamDesignator262=C8
+ParamVariation263=ParameterName=Length|VariantValue=2.79mm
+ParamDesignator263=C8
+ParamVariation264=ParameterName=Library Reference|VariantValue=CMP-001-00029-1
+ParamDesignator264=C8
+ParamVariation265=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator265=C8
+ParamVariation266=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator266=C8
+ParamVariation267=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator267=C8
+ParamVariation268=ParameterName=Mount|VariantValue=SMD
+ParamDesignator268=C8
+ParamVariation269=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator269=C8
+ParamVariation270=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator270=C8
+ParamVariation271=ParameterName=PCB3D|VariantValue=
+ParamDesignator271=C8
+ParamVariation272=ParameterName=Pin Info|VariantValue=
+ParamDesignator272=C8
+ParamVariation273=ParameterName=Pins|VariantValue=
+ParamDesignator273=C8
+ParamVariation274=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator274=C8
+ParamVariation275=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator275=C8
+ParamVariation276=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator276=C8
+ParamVariation277=ParameterName=Simulation|VariantValue=
+ParamDesignator277=C8
+ParamVariation278=ParameterName=Tolerance|VariantValue=
+ParamDesignator278=C8
+ParamVariation279=ParameterName=Val|VariantValue=
+ParamDesignator279=C8
+ParamVariation280=ParameterName=Value|VariantValue=1pF
+ParamDesignator280=C8
+ParamVariation281=ParameterName=Vol|VariantValue=
+ParamDesignator281=C8
+ParamVariation282=ParameterName=Voltage|VariantValue=500V
+ParamDesignator282=C8
+ParamVariation283=ParameterName=Voltage Rating (DC)|VariantValue=500V
+ParamDesignator283=C8
+ParamVariation284=ParameterName=Width|VariantValue=2.79mm
+ParamDesignator284=C8
+ParamVariationCount=284
 
 [ProjectVariant2]
 UniqueId=93570d17-0da5-4589-8a46-f3771caebeaf
