@@ -155,6 +155,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=aakatz ESE 6710  Coil Interface Board.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=65b5704e-5a1f-4677-91eb-ac613f144485
 Description=TX
@@ -226,13 +243,13 @@ ParamDesignator30=C9
 Variation2=Designator=C10|UniqueId=\JJHKMAGE|Kind=1|AlternatePart=
 Variation3=Designator=C5|UniqueId=\LSYACPVC|Kind=1|AlternatePart=
 Variation4=Designator=C1|UniqueId=\SWFGFOMS|Kind=2|AlternatePart=800B241JT200XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00046-2|AltLibLink_DesignItemID=CMP-001-00046-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=14862452-7d2f-41f1-b0c9-e2755b870343|AltLibLink_RevisionGUID=a563cedc-cbd2-46dc-83f4-993f73e665d9|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation31=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamVariation31=ParameterName=Comment|VariantValue=800B241JT200XT
 ParamDesignator31=C1
-ParamVariation32=ParameterName=Case/Package|VariantValue=1111
+ParamVariation32=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator32=C1
-ParamVariation33=ParameterName=China RoHS|VariantValue=Compliant
+ParamVariation33=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator33=C1
-ParamVariation34=ParameterName=Comment|VariantValue=800B241JT200XT
+ParamVariation34=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator34=C1
 ParamVariation35=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator35=C1
@@ -536,17 +553,17 @@ ParamDesignator182=C4
 ParamVariation183=ParameterName=Width|VariantValue=2.79mm
 ParamDesignator183=C4
 Variation8=Designator=C6|UniqueId=\ZSYSIIAU|Kind=2|AlternatePart=800B241JT200XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00046-2|AltLibLink_DesignItemID=CMP-001-00046-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=14862452-7d2f-41f1-b0c9-e2755b870343|AltLibLink_RevisionGUID=a563cedc-cbd2-46dc-83f4-993f73e665d9|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation184=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamVariation184=ParameterName=Comment|VariantValue=800B241JT200XT
 ParamDesignator184=C6
-ParamVariation185=ParameterName=Case/Package|VariantValue=1111
+ParamVariation185=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator185=C6
-ParamVariation186=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamVariation186=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator186=C6
-ParamVariation187=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamVariation187=ParameterName=Case Code (Imperial)|VariantValue=1111
 ParamDesignator187=C6
-ParamVariation188=ParameterName=China RoHS|VariantValue=Compliant
+ParamVariation188=ParameterName=Case Code (Metric)|VariantValue=2828
 ParamDesignator188=C6
-ParamVariation189=ParameterName=Comment|VariantValue=800B241JT200XT
+ParamVariation189=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator189=C6
 ParamVariation190=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator190=C6
@@ -1027,17 +1044,17 @@ ParamDesignator135=C7
 ParamVariation136=ParameterName=Width|VariantValue=2.79mm
 ParamDesignator136=C7
 Variation6=Designator=C1|UniqueId=\SWFGFOMS|Kind=2|AlternatePart=800B241JT200XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00046-2|AltLibLink_DesignItemID=CMP-001-00046-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=14862452-7d2f-41f1-b0c9-e2755b870343|AltLibLink_RevisionGUID=a563cedc-cbd2-46dc-83f4-993f73e665d9|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation137=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamVariation137=ParameterName=Comment|VariantValue=800B241JT200XT
 ParamDesignator137=C1
-ParamVariation138=ParameterName=Case/Package|VariantValue=1111
+ParamVariation138=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator138=C1
-ParamVariation139=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamVariation139=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator139=C1
-ParamVariation140=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamVariation140=ParameterName=Case Code (Imperial)|VariantValue=1111
 ParamDesignator140=C1
-ParamVariation141=ParameterName=China RoHS|VariantValue=Compliant
+ParamVariation141=ParameterName=Case Code (Metric)|VariantValue=2828
 ParamDesignator141=C1
-ParamVariation142=ParameterName=Comment|VariantValue=800B241JT200XT
+ParamVariation142=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator142=C1
 ParamVariation143=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator143=C1
@@ -1102,17 +1119,17 @@ ParamDesignator172=C1
 ParamVariation173=ParameterName=Width|VariantValue=2.79mm
 ParamDesignator173=C1
 Variation7=Designator=C6|UniqueId=\ZSYSIIAU|Kind=2|AlternatePart=800B241JT200XT|AltLibLink_LibIdentifierKind=Vault Name|AltLibLink_LibraryIdentifier=University of Pennsylvania (ESE)|AltLibLink_SymbolReference=CMP-001-00046-2|AltLibLink_DesignItemID=CMP-001-00046-2|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=University of Pennsylvania (ESE)|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=d2718a28-c4f5-4814-be87-71b2c408f282|AltLibLink_ItemGUID=14862452-7d2f-41f1-b0c9-e2755b870343|AltLibLink_RevisionGUID=a563cedc-cbd2-46dc-83f4-993f73e665d9|AltLibLink_Footprint=CAP_1111_ATC 800B|AltLibLink_IsSameFootprint=True
-ParamVariation174=ParameterName=Capacitor Type|VariantValue=Ceramic
+ParamVariation174=ParameterName=Comment|VariantValue=800B241JT200XT
 ParamDesignator174=C6
-ParamVariation175=ParameterName=Case/Package|VariantValue=1111
+ParamVariation175=ParameterName=Capacitor Type|VariantValue=Ceramic
 ParamDesignator175=C6
-ParamVariation176=ParameterName=Case Code (Imperial)|VariantValue=1111
+ParamVariation176=ParameterName=Case/Package|VariantValue=1111
 ParamDesignator176=C6
-ParamVariation177=ParameterName=Case Code (Metric)|VariantValue=2828
+ParamVariation177=ParameterName=Case Code (Imperial)|VariantValue=1111
 ParamDesignator177=C6
-ParamVariation178=ParameterName=China RoHS|VariantValue=Compliant
+ParamVariation178=ParameterName=Case Code (Metric)|VariantValue=2828
 ParamDesignator178=C6
-ParamVariation179=ParameterName=Comment|VariantValue=800B241JT200XT
+ParamVariation179=ParameterName=China RoHS|VariantValue=Compliant
 ParamDesignator179=C6
 ParamVariation180=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator180=C6
@@ -1330,70 +1347,6 @@ ParamDesignator284=C3
 ParamVariation285=ParameterName=Width|VariantValue=2.79mm
 ParamDesignator285=C3
 ParamVariationCount=285
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Design Rule Check - ESE6710 Coil Interface Board.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.REP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for aakatz ESE 6710  Coil Interface Board\Manufacturing Files\aakatz ESE 6710  Coil Interface Board\ESE6710 Coil Interface Board.TXT
-DItemRevisionGUID=
 
 [Parameter1]
 Name=Author
@@ -1924,6 +1877,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
